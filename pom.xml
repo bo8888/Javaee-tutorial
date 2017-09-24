@@ -269,9 +269,10 @@
                     <execution>
                         <id>cargo-start</id>
                         <phase>install</phase>
-                        <goals>
+                       <!-- <goals>
                             <goal>start</goal>
-                        </goals>
+                        </goals> 
+                        -->
                     </execution>
                 </executions>
             </plugin>
